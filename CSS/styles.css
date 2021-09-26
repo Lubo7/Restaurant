@@ -8,3 +8,9 @@ img :before {
     width: 100%;
     }
 
+    @media (max-width: 767px) {
+        
+        {
+
+        }
+    }
