@@ -8,9 +8,6 @@ img :before {
     width: 100%;
     }
 
-    @media (max-width: 767px) {
-        
-        {
-
-        }
-    }
+  i {
+      color: rgb(255, 193, 7);
+  }
